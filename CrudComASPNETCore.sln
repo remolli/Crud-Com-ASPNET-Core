@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudComASPNETCore", "CrudComASPNETCore.csproj", "{9F95AB5D-2078-464B-BC36-F1ABCE85D701}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F95AB5D-2078-464B-BC36-F1ABCE85D701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F95AB5D-2078-464B-BC36-F1ABCE85D701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F95AB5D-2078-464B-BC36-F1ABCE85D701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F95AB5D-2078-464B-BC36-F1ABCE85D701}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76654C92-4C95-4852-928C-79ECDE7E6656}
+	EndGlobalSection
+EndGlobal
